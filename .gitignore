@@ -1,0 +1,36 @@
+gitignore
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/tmp
+/out
+
+# misc
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# editor directories and files
+.idea
+.vscode/*
+.idx/*
+.classpath
+.project
+.settings
+
+# environment variables
+.env
+.env.development
+.env.production
+.env.test
+.env.local
+.env.*.local
